@@ -1,0 +1,82 @@
+.logo{
+    text-align: center;
+    background-color: aqua;
+    height: 96px;
+    margin-bottom: -17px;
+}
+
+.logo h1{
+    line-height: 96px;
+}
+
+.menu{
+    text-align: center;
+    background-color: green;
+    height: 50px;
+}
+
+.intro{
+    height: 236px;
+    margin-top: 10px;
+}
+
+.intro .left{
+    background-color: bisque;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+
+.intro .right-top{
+    background-color: purple;
+    float: left;
+    height: 49.3%;
+    width: 49.6%;
+    float: right;
+}
+
+.intro .right-botton{
+    background-color: lawngreen;
+    float: left;
+    height: 50%;
+    width: 49.6%;
+    float: right;
+    margin-top: 2px;
+}
+
+.intro .left h1{
+    text-align: center;
+    line-height: 236px;
+}
+
+.intro .right-top h1{
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+}
+
+.intro .right-botton h1{
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+}
+
+.title{
+    text-align: center;
+    background-color: yellow;
+    height: 200px;
+    margin-top: -16px;
+}
+
+.title h1{
+    line-height: 200px;
+}
+
+footer{
+    text-align: center;
+    background-color: cadetblue;
+    margin-top: 5px;
+    height: 50px;
+}
+
+footer strong{
+    line-height: 50px;
+}
